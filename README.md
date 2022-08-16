@@ -1,5 +1,4 @@
 ## Olá eu sou o Thiago Scotelaro
-- 🌱 Estudando Full Stack
 <div>
   <a href="https://https://github.com/ThiagoScotelaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoScotelaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
